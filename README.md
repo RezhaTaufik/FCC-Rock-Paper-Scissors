@@ -1,2 +1,2 @@
 # FCC-Rock-Paper-Scissors
-My Attemp at FCC RPS Challenge
+My Attempt at FCC RPS Challenge
